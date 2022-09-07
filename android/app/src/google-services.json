@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672095905432",
+    "project_id": "login-firebase1-719f1",
+    "storage_bucket": "login-firebase1-719f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672095905432:android:e798ff2cc9212b00f512ed",
+        "android_client_info": {
+          "package_name": "com.example.flutter_template_login_firebase1_verify_reset_pass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672095905432-if77cabifoimrrp9ls7tk34pl4ilffi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKNLTDRve86vVCM1CV1hWNThTaUtiNOxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672095905432-if77cabifoimrrp9ls7tk34pl4ilffi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
